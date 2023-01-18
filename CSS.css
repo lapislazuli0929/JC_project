@@ -1,0 +1,631 @@
+.front{
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 88px;
+    background-color: rgba(255, 255, 255, 1) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.text{
+    margin: 34px 0px 0px 605px;
+    width: 32px;
+    height: 22px;
+    text-align: center;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    opacity: 1;
+    flex-direction: row;
+}
+
+.text1{
+    margin: 34px 0px 0px 48px;
+    width: 64px;
+    height: 22px;
+    text-align: center;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    opacity: 1;
+    flex-direction: row;
+}
+.text2{
+    margin: 34px 0px 0px 48px;
+    width: 64px;
+    height: 22px;
+    text-align: center;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    opacity: 1;
+    flex-direction: row;
+}
+.text3{
+    margin: 34px 0px 0px 48px;
+    width: 64px;
+    height: 22px;
+    text-align: center;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    opacity: 1;
+    flex-direction: row;
+}
+.text4{
+    margin: 34px 0px 0px 48px;
+    width: 176px;
+    height: 38px;
+    background-color: #F9C745 0% 0% no-repeat padding-box;
+    border-radius: 23px;
+    opacity: 1;
+}
+
+.flex-front {
+    display: flex;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 88px;
+    background-color: rgba(255, 255, 255, 1) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    flex-wrap: nowrap;
+  }
+
+.flex-front1{
+    display: flex;
+    top: 898px;
+    left: 0px;
+    width: 1440px;
+    height: 606px;
+    opacity: 1;
+    flex-wrap:nowrap ;
+}
+.front2{
+    margin: 178px 0px 0px 48px;
+    width: 380px;
+    height: 315px;
+    opacity: 1;
+}
+
+.word{
+    width: 74px;
+    height: 39px;
+    text-align: center;
+    font: normal normal bold 24px/39px Kalam;
+    letter-spacing: 0px;
+    color: #F9C745;
+    opacity: 1;
+}
+.word1{
+    width: 377px;
+    height: 51px;
+    text-align: left;
+    font: normal normal bold 32px/51px Kalam;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+.word2{
+    width: 385px;
+    height: 214px;
+    text-align: left;
+    font: normal normal normal 16px/32px Noto Sans;
+    letter-spacing: 1.28px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+.word3{
+    margin: 24.25px 0px 0px 472px;
+    width: 496px;
+    height: 22px;
+    text-align: center;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+.flex-chack{
+    display: flex;
+    top: 1504px;
+    left: 0px;
+    width: 1440px;
+    height: 314px;
+    opacity: 1;
+    flex-wrap: nowrap;
+}
+
+.flex-chack1{
+    display: flex;
+    margin: 50px 0px 0px 0px;
+    width: 1440px;
+    height: 28px;
+    opacity: 1;
+    flex-wrap: nowrap;
+}
+
+.text01{
+    margin: 50px 0px 0px 540px;
+    width: 120px;
+    height: 28px;
+    text-align: center;
+    font: normal normal normal 20px/27px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+.text02{
+    margin: 50px 0px 0px 120px;
+    width: 142px;
+    height: 28px;
+    text-align: center;
+    font: normal normal normal 20px/27px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+.flex-chack3{
+    display: flex;
+    width: 1440px;
+    height: 727px;
+    opacity: 1;
+    flex-wrap: nowrap;
+}
+
+.box{
+    margin: 48px 0px 0px 60px;
+    width: 424px;
+    height: 621px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 4px 8px #00000014;
+    border-radius: 24px;
+    opacity: 1;
+}
+.box0{
+    margin: 48px 0px 0px 24px;
+    width: 424px;
+    height: 621px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 4px 8px #00000014;
+    border-radius: 24px;
+    opacity: 1;
+}
+
+.text11{
+    margin: 30px 0px 0px 24px;
+    width: 87px;
+    height: 24px;
+    text-align: left;
+    font: normal normal bold 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+.text12{
+    margin: 16px 0px 0px 24px;
+    width: 376px;
+    height: 46px;
+    text-align: left;
+    font: normal normal normal 16px/24px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+.text10{
+    margin: 30px 0px 0px 24px;
+    width: 142px;
+    height: 24px;
+    text-align: left;
+    font: normal normal bold 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+.text00{
+    margin: 16px 0px 0px 192px;
+    width: 40px;
+    height: 25px;
+    text-align: center;
+    font: normal normal bold 16px/25px Kalam;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+.text13{
+    margin: 58px 0px 87px 660px;
+    width: 120px;
+    height: 28px;
+    text-align: center;
+    font: normal normal normal 20px/27px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+.flex-chack4{
+    display: flex;
+    width: 1440px;
+    height: 223px;
+    opacity: 1;
+    flex-wrap: nowrap;
+}
+
+.box1{
+    margin: 48px 0px 0px 232px;
+    width: 200px;
+    height: 127px;
+    opacity: 1;
+}
+
+.box2{
+    margin: 55px 0px 0px 24px;
+    width: 240px;
+    height: 117px;
+    opacity: 1;
+}
+.box3{
+    margin: 59px 0px 0px 48px;
+    width: 200px;
+    height: 105px;
+    opacity: 1;
+}
+.box4{
+    margin: 55px 0px 0px 24px;
+    width: 240px;
+    height: 119px;
+    opacity: 1;
+}
+.bt{
+    width: 144px;
+    height: 33px;
+    text-align: left;
+    font: normal normal normal 24px/33px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+.bt1{
+    margin: 5px;
+    width: 240px;
+    height: 22px;
+    text-align: left;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+.bt2{
+    margin: 22px;
+    width: 80px;
+    height: 28px;
+    text-align: center;
+    font: normal normal normal 20px/27px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+.flex-chack5{
+    display: flex;
+    width: 1444px;
+    height: 70px;
+    background: #3A3A3A 0% 0% no-repeat padding-box;
+    opacity: 1;
+    flex-wrap: nowrap;
+}
+.b{
+    margin: 24px 0px 0px 556px;
+    width: 328px;
+    height: 22px;
+    text-align: center;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.flex-chack6{
+    display: flex;
+    width: 1444px;
+    height: 489px;
+    opacity: 1;
+    flex-wrap: nowrap;
+}
+.box5{
+    margin: 80px 0px 0px 125.61px;
+    width: 203px;
+    height: 339px;
+    opacity: 1;
+}
+
+.step{
+    margin: 16px 0px 0px 77px;
+    width: 50px;
+    height: 32px;
+    text-align: center;
+    font: normal normal bold 20px/32px Kalam;
+    letter-spacing: 0px;
+    color: #F9C745;
+    opacity: 1;
+}
+.s1{
+    margin: 2px 0px 0px 32px;
+    width: 140px;
+    height: 28px;
+    text-align: center;
+    font: normal normal bold 20px/27px Noto Sans;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.s11{
+    margin: 2px 0px 0px 52px;
+    width: 100px;
+    height: 28px;
+    text-align: center;
+    font: normal normal bold 20px/27px Noto Sans;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.s12{
+    margin: 2px 0px 0px 62px;
+    width: 80px;
+    height: 28px;
+    text-align: center;
+    font: normal normal bold 20px/27px Noto Sans;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.s13{
+    margin: 2px 0px 0px 69px;
+    width: 80px;
+    height: 28px;
+    text-align: center;
+    font: normal normal bold 20px/27px Noto Sans;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.s2{
+    margin: 17px 0px 0px 46px;
+    width: 112px;
+    height: 44px;
+    text-align: center;
+    font: normal normal normal 16px/19px 07LogoTypeGothic7;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.s21{
+    margin: 17px 0px 0px 38px;
+    width: 128px;
+    height: 44px;
+    text-align: center;
+    font: normal normal normal 16px/19px 07LogoTypeGothic7;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.s22{
+    margin: 17px 0px 0px 14px;
+    width: 176px;
+    height: 38px;
+    text-align: center;
+    font: normal normal normal 16px/19px 07LogoTypeGothic7;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.s23{
+    margin: 17px 0px 0px 0px;
+    width: 218px;
+    height: 35px;
+    text-align: center;
+    font: normal normal normal 16px/19px 07LogoTypeGothic7;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.t{
+    margin: 244px 0px 0px 64px;
+    width: 90px;
+    height: 39px;
+    text-align: left;
+    font: normal normal bold 24px/39px Kalam;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+.flex-page3{
+    display: flex;
+    width: 1444px;
+    height: 312px;
+    opacity: 1;
+    flex-wrap: nowrap;
+}
+
+.des{
+    margin: 0px 0px 0px 60px;
+    width: 90px;
+    height: 287px;
+}
+
+.flex-page4{
+    display: flex;
+    margin: 40.25px 0px 0px 60px;
+    width: 1444px;
+    height: 661.25px;
+    opacity: 1;
+    flex-wrap: nowrap;
+}
+.flex-page44{
+    display: flex;
+    margin: 24px 0px 80px 60px ;
+    width: 1444px;
+    height: 621px;
+    opacity: 1;
+    flex-wrap: nowrap;
+}
+.pp{
+    margin: 0px 0px 80px 647px;
+    width: 250.02px;
+    height: 32px;
+    text-align: center;
+    font: normal normal bold 20px/32px Kalam;
+    letter-spacing: 10px;
+    opacity: 1;
+}
+
+.flex-page5{
+    display: flex;
+    margin: 44.25px 0px 80px 0px ;
+    width: 1444px;
+    height: 928px;
+    opacity: 1;
+    flex-wrap: nowrap;
+}
+
+.snow{
+    margin: 0px 0px 0px 60px;
+    width: 872px;
+    height: 928px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 4px 8px #0000001A;
+    border-radius: 12px;
+    opacity: 1;
+}
+
+.p5t{
+    margin: 34px 0px 0px 33px;
+    width: 144px;
+    height: 34px;
+    text-align: center;
+    font: normal normal bold 24px/33px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+.flex-page51{
+    display: flex;
+    margin: 25px 0px 0px 0px ;
+    width: 869px;
+    height: 86px;
+    opacity: 1;
+    flex-wrap: nowrap;
+}
+.p5b1{
+    margin: 0px 0px 0px 32px;
+    width: 96px;
+    height: 86px;
+    text-align: left;
+    font: normal normal normal 16px/32px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+.p5b2{
+    margin: 0px 0px 0px 208px;
+    width: 144px;
+    height: 86px;
+    text-align: left;
+    font: normal normal normal 16px/32px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+.t5{
+    margin: 50px 0px 0px 32px;
+    width: 808px;
+    height: 86px;
+    text-align: left;
+    font: normal normal normal 16px/32px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+.box00{
+    margin: 44.25px 0px 0px 24px;
+    width: 424px;
+    height: 747px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 4px 8px #00000014;
+    border-radius: 24px;
+    opacity: 1;
+}
+
+.tt1{
+    margin: 26px 0px 0px 24px;
+    width: 48px;
+    height: 22px;
+    text-align: left;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+.tt2{
+    margin: 6px 0px 0px 24px;
+    width: 128px;
+    height: 22px;
+    text-align: left;
+    font: normal normal bold 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+.tt3{
+    margin: 18px 0px 0px 24px;
+    width: 32px;
+    height: 22px;
+    text-align: left;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+.tt4{
+    margin: 6px 0px 0px 24px;
+    width: 78px;
+    height: 22px;
+    text-align: left;
+    font: normal normal bold 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+.tt5{
+    margin: 18px 0px 0px 24px;
+    width: 32px;
+    height: 22px;
+    text-align: left;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+.tt6{
+    margin: 6px 0px 0px 24px;
+    width: 203px;
+    height: 22px;
+    text-align: left;
+    font: normal normal bold 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+.tt7{
+    margin: 39px 0px 0px 140px;
+    width: 144px;
+    height: 33px;
+    text-align: center;
+    font: normal normal normal 24px/33px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
